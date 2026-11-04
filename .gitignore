@@ -1,0 +1,38 @@
+# Collected evidence and generated artifacts
+output/
+system/web/data/
+system/web/dist/
+*.sqlite
+*.sqlite3
+*.db
+*-wal
+*-shm
+*-journal
+
+# Credentials and local settings
+.env
+.env.*
+*.env
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.local
+
+# Dependencies, caches, and logs
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+*.tsbuildinfo
+.pytest_cache/
+.ruff_cache/
+*.log
+.DS_Store
+
+# Local archives
+archive/
+*.tar.gz
+*.zip
+*.bundle

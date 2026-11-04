@@ -1,0 +1,9 @@
+{
+  "status": "complete",
+  "pending_repositories": 0,
+  "selected_repositories": 2,
+  "decided_repositories": 2,
+  "include_repositories": 1,
+  "numeric_probability_threshold": 0.49,
+  "fine_policy_version": "synthetic-example"
+}

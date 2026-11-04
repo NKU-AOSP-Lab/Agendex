@@ -1,0 +1,2 @@
+{"id":1,"full_name":"agendex-demo/terminal-agent","html_url":"https://example.com/agendex-demo/terminal-agent","description":"虚构样例：在本地终端调用工具并根据结果继续执行。","stargazers_count":12,"language":"Python","topics":["agent","terminal"],"retention_source":"metadata_prescreen"}
+{"id":2,"full_name":"agendex-demo/prompt-notes","html_url":"https://example.com/agendex-demo/prompt-notes","description":"虚构样例：收集与 Agent 相关的提示词。","stargazers_count":4,"language":null,"topics":["prompts"],"retention_source":"metadata_prescreen"}
